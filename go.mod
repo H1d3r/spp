@@ -4,7 +4,6 @@ go 1.24.4
 
 require (
 	github.com/esrrhs/gohome v0.0.0-20250621030130-649c5a953250
-	github.com/golang/protobuf v1.5.4
 	google.golang.org/protobuf v1.36.6
 )
 
@@ -25,11 +24,10 @@ require (
 	github.com/xtaci/smux v1.5.34 // indirect
 	go.uber.org/automaxprocs v1.6.0 // indirect
 	go.uber.org/mock v0.5.2 // indirect
-	golang.org/x/crypto v0.39.0 // indirect
-	golang.org/x/exp v0.0.0-20250606033433-dcc06ee1d476 // indirect
+	golang.org/x/crypto v0.40.0 // indirect
 	golang.org/x/mod v0.25.0 // indirect
-	golang.org/x/net v0.41.0 // indirect
+	golang.org/x/net v0.42.0 // indirect
 	golang.org/x/sync v0.15.0 // indirect
-	golang.org/x/sys v0.33.0 // indirect
+	golang.org/x/sys v0.34.0 // indirect
 	golang.org/x/tools v0.34.0 // indirect
 )
